@@ -54,6 +54,10 @@ header {
   float: right;
 }
 
+.header-nav {
+  list-style: none;
+}
+
 .header-nav-item {
   float: left;
   padding: 16px 16px 0 24px;
